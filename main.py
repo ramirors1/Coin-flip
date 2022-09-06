@@ -10,7 +10,10 @@ else:
   print("Tails")
   
 
+# coin = ["Heads", "Talis"]
 
+  #for i in range(1):
+   # print(random.choice(coin))
 
 
 
